@@ -7,17 +7,18 @@ Ello, am Sphx. I usually go by **Reed** on the internet but some irl peeps know 
 #### Programming:
 - Python
 - Ren'py ~~(which some may call just VN flavored python)~~
+- Will someday stop procrastinating learning C++.
 #### Languages:
 - Chinese
 - Japanese
 
 ## Hobbies  
 Apart from "fucking around and finding out" I *do* have more things to spend my time on. Such as:  
+- Messing around with linux.
 - Rhythm Games
-- Drawing (you can find me on krita-artists.org!)
+- Drawing 
 - Writing
-- Reading
-- Being feral on misskey
+- Reading!!
 
 <!--
 **sphxisnot/sphxisnot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
